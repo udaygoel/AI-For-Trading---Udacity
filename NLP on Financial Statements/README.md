@@ -54,5 +54,5 @@ There are 5 main sections of the Project.
    - Sharpe Ratio of the Alphas
 
 
-The project illustrates how to process the 10-Ks and create a factor using sentiment analysis. This can be further enhanced by applying different techniques to interpret the sentiment from the documents. One such example is [Analyzing Stock Sentiment from Twits]() where Deep Learning is used to analyse the sentiment. 
+The project illustrates how to process the 10-Ks and create a factor using sentiment analysis. This can be further enhanced by applying different techniques to interpret the sentiment from the documents. One such example is [Analyzing Stock Sentiment from Twits](https://github.com/udaygoel/AI-For-Trading-Udacity/tree/master/Analyzing%20Stock%20Sentiment%20from%20Twits) where Deep Learning is used to analyse the sentiment. 
 

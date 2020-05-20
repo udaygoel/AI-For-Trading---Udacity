@@ -14,7 +14,7 @@ You can view and launch the following projects:
 
 - [NLP on Financial Statements]()
 
-  
+  In this project, a NLP analysis is performed on 10-K financial statements to generate an alpha factor. For the dataset, the end of day prices are taken from Quotemedia and sentiment words for [Loughran-McDonald sentiment word lists]([https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists](https://sraf.nd.edu/textual-analysis/resources/#LM Sentiment Word Lists)).
 
 - [Analyzing Stock Sentiment from Twits]()
 

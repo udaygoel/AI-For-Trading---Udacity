@@ -27,7 +27,7 @@ There are 5 main sections of the Project.
    
 3. Analysis on 10-Ks
 
-   This section performs sentiment analysis on the 10-Ks. The [Loughran-McDonald sentiment word lists]([https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists](https://sraf.nd.edu/textual-analysis/resources/#LM Sentiment Word Lists)) are used to cover the following sentiments:
+   This section performs sentiment analysis on the 10-Ks. The [Loughran-McDonald sentiment word lists](https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists) are used to cover the following sentiments:
 
    - Negative
    - Positive

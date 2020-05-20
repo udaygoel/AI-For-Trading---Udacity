@@ -1,11 +1,11 @@
 # NLP on Financial Statements
-In this project, a NLP analysis is performed on 10-K financial statements to generate an alpha factor. For the dataset, the end of day prices are taken from Quotemedia and sentiment words for [Loughran-McDonald sentiment word lists](https://sraf.nd.edu/textual-analysis/resources/#LM Sentiment Word Lists).
+In this project, a NLP analysis is performed on 10-K financial statements to generate an alpha factor. For the dataset, the end of day prices are taken from Quotemedia and sentiment words for [Loughran-McDonald sentiment word lists](https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists).
 
 ### Project Files
 
 The project uses these files and folders:
 
-- [NLP_Financial_Statements.ipynb](): This Jupyter Notebook covers the project. 
+- [NLP_Financial_Statements.ipynb](https://github.com/udaygoel/AI-For-Trading-Udacity/blob/master/NLP%20on%20Financial%20Statements/NLP_Financial_Statements.ipynb): This Jupyter Notebook covers the project. 
 - project_helper.py: helper functions to process the data. This is provided by Udacity.
 - project_tests.py: Unit tests to test the functions created in the notebook. This is provided by Udacity.
 - tests.py: helper functions used by project_tests.py

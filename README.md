@@ -18,7 +18,7 @@ You can view and launch the following projects:
 
 - [Analyzing Stock Sentiment from Twits]()
 
-  
+  In this project, a deep learning model using Embedding and LSTM is built in PyTorch to classify the sentiment of messages from [StockTwits](https://stocktwits.com/), a social network for investors and traders. The model is able to predict if any particular message is positive or negative. From this, we are able to generate a signal of the public sentiment for various ticker symbols.
   
 - [Enhanced Alpha using Random Forest]()
 

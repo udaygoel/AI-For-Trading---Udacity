@@ -5,7 +5,7 @@ In this project, a backtesting notebook is created to perform portfolio optimiza
 
 The project uses these files and folders:
 
-- [Backtesting_Portfolio_Optimization](): This Jupyter Notebook covers the project. 
+- [Backtesting_Portfolio_Optimization](https://github.com/udaygoel/AI-For-Trading-Udacity/blob/master/Backtesting%20and%20Portfolio%20Optimization/Backtesting_Portfolio_Optimization.ipynb): This Jupyter Notebook covers the project. 
 - requirements.txt: requirements file for python libraries to use with this project
 
 This repository does not include the Barra data created by Udacity for this project.

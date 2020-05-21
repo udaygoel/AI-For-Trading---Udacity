@@ -15,7 +15,7 @@ This repository does not include the Data Bundle created by Udacity for this pro
 
 ### Contents
 
-There are 5 main sections of the Project.
+There are 4 main sections of the Project.
 
 1.  Download10-Ks
 

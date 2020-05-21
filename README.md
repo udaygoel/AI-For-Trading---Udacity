@@ -20,9 +20,9 @@ You can view and launch the following projects:
 
   In this project, a deep learning model using Embedding and LSTM is built in PyTorch to classify the sentiment of messages from [StockTwits](https://stocktwits.com/), a social network for investors and traders. The model is able to predict if any particular message is positive or negative. From this, we are able to generate a signal of the public sentiment for various ticker symbols.
   
-- [Enhanced Alpha using Random Forest]()
+- [Enhanced Alpha using Random Forest](https://github.com/udaygoel/AI-For-Trading-Udacity/tree/master/Enhanced%20Alpha%20using%20Random%20Forest)
 
-  
+  In this project, Random Forest is used to combine multiple trading signals to create enhanced alpha. It solves the problem of overlapping samples to avoid overfitting. For the dataset, the end of day is taken from Quotemedia and sector data from Sharadar.
 
 - [Backtesting and Feature Importance]()
 

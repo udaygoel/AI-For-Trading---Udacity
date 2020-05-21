@@ -24,7 +24,7 @@ You can view and launch the following projects:
 
   In this project, Random Forest is used to combine multiple trading signals to create enhanced alpha. It solves the problem of overlapping samples to avoid overfitting. For the dataset, the end of day is taken from Quotemedia and sector data from Sharadar.
 
-- [Backtesting and Portfolio Optimization]()
+- [Backtesting and Portfolio Optimization](https://github.com/udaygoel/AI-For-Trading-Udacity/tree/master/Backtesting%20and%20Portfolio%20Optimization)
 
   In this project, a backtesting notebook is created to perform portfolio optimization that includes transaction costs and is implemented with computational efficiency in mind to allow for a reasonably fast backtest. The notebook also uses performance attribution to identify the major drivers of the portfolio's profit-and-loss (PnL). The project uses Barra data.
   

@@ -5,7 +5,7 @@ In this project, Random Forest is used to combine multiple trading signals to cr
 
 The project uses these files and folders:
 
-- [Enhanced_Alpha_Random_Forest.ipynb](): This Jupyter Notebook covers the project. 
+- [Enhanced_Alpha_Random_Forest.ipynb](https://github.com/udaygoel/AI-For-Trading-Udacity/blob/master/Enhanced%20Alpha%20using%20Random%20Forest/Enhanced_Alpha_Random_Forest.ipynb): This Jupyter Notebook covers the project. 
 - project_helper.py: helper functions to process the data. This is provided by Udacity.
 - project_tests.py: Unit tests to test the functions created in the notebook. This is provided by Udacity.
 - tests.py: helper functions used by project_tests.py
